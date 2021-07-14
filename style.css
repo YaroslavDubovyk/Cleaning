@@ -980,7 +980,7 @@ body.show-menu .side-menu {
   }
 }
 
-@media and (max-width: 600px) and (orientation: landscape) {
+@media (max-width: 600px) and (orientation: landscape) {
   .first-section {
     padding-top: 70px;
     flex-direction: column-reverse;
